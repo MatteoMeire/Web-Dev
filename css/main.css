@@ -1,0 +1,8 @@
+body {
+    background-color: orange;
+}
+
+#logo {
+    max-width: 20%;
+    margin-left: 3em;
+}
